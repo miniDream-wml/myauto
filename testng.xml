@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="test">
+	
+	<test name="suite测试">
+		<classes>
+			<class name="suite.SuiteCofig"/>
+			<class name="suite.LoginTest"/>
+			<class name="suite.PayTest"/>
+		</classes>
+	</test>
+	<test name="注解测试">
+		<classes>
+			<class name="com.course.chapter5.BasicAnnotion"/>
+		</classes>
+	</test>
+	
+</suite>

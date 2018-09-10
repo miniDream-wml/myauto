@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="sname">
+ 	<test name="onlyRunStu">
+ 		<groups>
+ 			<run>
+ 				<inclue name="stu"/>
+ 			</run>
+ 		</groups>
+ 		<classes>
+ 			<class name="groups.GroupOnClass1"/>
+ 			<class name="groups.GroupOnClass2"/>
+ 			<class name="groups.GroupOnClass3"/>
+ 		</classes>
+ 	</test>
+</suite>
